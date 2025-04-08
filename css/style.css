@@ -1,0 +1,9 @@
+#main-navbar{
+    padding: 20px;
+    list-style-type: none;
+}
+#sidebar-container{
+    background-color: red;
+    padding: 40px;
+    float: right;
+}
